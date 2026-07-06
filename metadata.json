@@ -1,0 +1,6 @@
+{
+  "name": "Whatapply - WhatsApp SMB Suite",
+  "description": "A WhatsApp-centric Micro-SaaS suite for local Indian SMBs and retailers, featuring automated UPI payment reminders, Salon & Studio booking assistants, AI-powered template broadcast campaigns, and an interactive WhatsApp sandbox simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
